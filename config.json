@@ -1,0 +1,13 @@
+{
+  "accepts": ["id"],
+  "classes": ["AtcClassification","JscClassification","UspClassification"],
+  "files" : {
+    "css" : "dist/style.css",
+    "js" : "dist/bundle.js"
+  },
+  "toolName" : {
+    "human" :"Drug Classification Hierarchy",
+    "cljs" :"bluegenesDrugClassification"    
+  },
+  "version": 2
+}
