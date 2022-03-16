@@ -1,10 +1,12 @@
 #  Drug Classification Hierarchy
 
 Drug Classification Hierarchy is a tool made for [BlueGenes](http://bluegenes.apps.intermine.org) following BlueGenes Tool API.
-Add more description of your tool here! :)
+This tool displays the hierarchy of the Anatomical Therapeutic Chemical Classification, 
+and the Japan Standard Commodity Classification for the AtcClassification class and the JscClassification class respectively.
 
-## Licence
+## License
 
+The MIT License - see [LICENSE](LICENSE)
 
 ### To set up locally for development
 

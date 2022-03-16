@@ -1,6 +1,6 @@
 {
   "accepts": ["id"],
-  "classes": ["AtcClassification","JscClassification","UspClassification"],
+  "classes": ["AtcClassification","JscClassification"],
   "files" : {
     "css" : "dist/style.css",
     "js" : "dist/bundle.js"
